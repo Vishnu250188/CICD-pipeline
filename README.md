@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Registration System
 
 A simple **Flask** web application to manage student records with **MongoDB** as the backend database. Users can **add, view, update, and delete** student details.
@@ -132,3 +133,23 @@ MIT License
 
 
 
+=======
+# CICD-pipeline : Jenkins CI CD pipeline for flask application
+
+## Objective
+
+Build a Jenkins CI/CD pipeline that:
+
+Pulls a Flask application from GitHub
+Installs Python dependencies
+Runs unit tests using pytest
+Deploys the Flask application
+Triggers automatically on GitHub push
+Sends email notifications
+Documents everything in README.md
+
+## Architecture :
+<img width="245" height="484" alt="Architecture" src="https://github.com/user-attachments/assets/d8d7d247-f841-4c08-b252-b1e7c05e2ede" />
+
+
+>>>>>>> 7955f27eea22604cd1d1bd6581db8aaa9077d7c3
