@@ -153,3 +153,19 @@ Documents everything in README.md
 
 
 >>>>>>> 7955f27eea22604cd1d1bd6581db8aaa9077d7c3
+
+Environment setup
+Jenkins installation
+Python installation
+Git installation
+Forking the repository
+Cloning the repository
+Jenkins pipeline creation
+Jenkinsfile explanation (line by line)
+Build stage
+Test stage
+Deploy stage
+GitHub webhook configuration
+Email notification configuration
+README.md explanation
+Results
